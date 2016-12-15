@@ -1,4 +1,4 @@
-Fender Reader Testing - by G.V.Sri Rohita
+Feed-Reader Testing - by G.V.Sri Rohita
 ===========================================
 # Project Overview
 
