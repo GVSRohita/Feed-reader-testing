@@ -24,7 +24,7 @@ $(function () {
         it('have urls', function () {
             for (var i in allFeeds) {
                 expect(allFeeds[i].url).toBeDefined();
-                expect(allFeeds[i].length).not.toBe(0);
+                expect(allFeeds[i].url.length).not.toBe(0);
             }
         });
 
@@ -81,7 +81,7 @@ $(function () {
 
         //checks to see if at least 1 feed entry has been added
         it('feed container has minimum of 1 entry', function () {
-            var entryNumber = $('.entry').length;
+            var entryNumber = $('.feed .entry').length;
             expect(entryNumber).toBeGreaterThan(0);
         });
     });
