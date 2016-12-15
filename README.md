@@ -17,4 +17,4 @@ This project is a web-based application containing following test-suites:
 ## Sources that helped me do my project:
 
 - [Jasmine Documentation] (https://jasmine.github.io/)
-- Inputs from friends in [slack] (https://slack.com/) and Udacity forums
+- Inputs from friends in [slack] (https://slack.com/) and `Udacity forums`
