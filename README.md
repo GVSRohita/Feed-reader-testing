@@ -10,7 +10,7 @@ This project is a web-based application containing following test-suites:
 - New Feed Selection
 
 ## How to run this project:
-- Download [this file] (https://github.com/gvsrohita/Feed-reader-testing) or clone the repository from `Github` into your local machine. Of course, it can be run from this [site] (https://gvsrohita.github.com/Feed-reader-testing) also
+- Download [this file] (https://github.com/gvsrohita/Feed-reader-testing) or clone the repository from `Github` into your local machine. Of course, it can be run from this [site] (https://gvsrohita.github.io/Feed-reader-testing/) also
 - Open the `index.html` file in a web browser, preferably **Google Chrome**
 - There are _Jasmine_ library files loaded in the repository. Hence, you can view the specs along with errors in the code, if any
 
